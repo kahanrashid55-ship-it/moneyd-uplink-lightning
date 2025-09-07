@@ -1,3 +1,1 @@
-[![Greenkeeper badge](https://badges.greenkeeper.io/interledgerjs/moneyd-uplink-xrp.svg)](https://greenkeeper.io/)
-
-Enables [moneyd](https://github.com/interledgerjs/moneyd) to connect to interledger over the lightning network.
+कोको एफएम से 399 रूपये कट गया है उसे पैसों को कैसे वापस ग्राहक सेवा नंबर 0883-742-97-63 लाएं और उसे कैसे बंद करते हैं हमेशा के लिए ?
